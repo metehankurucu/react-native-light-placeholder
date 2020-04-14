@@ -1,0 +1,32 @@
+{
+  "name": "react-native-light-placeholder",
+  "version": "0.0.2",
+  "description": "Lightweight placeholder for React Native",
+  "author": "Metehan Kurucu",
+  "license": "MIT",
+  "main": "index",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metehankurucu/react-native-light-placeholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metehankurucu/react-native-light-placeholder/issues"
+  },
+  "homepage": "https://github.com/metehankurucu/react-native-light-placeholder#readme",
+  "keywords": [
+    "react",
+    "native",
+    "light",
+    "placeholder",
+    "ux"
+  ],
+  "peerDependencies": {
+    "prop-types": ">=15.6.0"
+  }
+}
