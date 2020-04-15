@@ -3,14 +3,13 @@ import { View } from 'react-native';
 
 const Rectangle = ({ height, width, color, square, borderRadius, ...props }) => {
     return (
-        <View style={{
+        <View style={[{
             height:height,
             width:square ? height : width,
             borderRadius,
             backgroundColor:color,
             margin:3
-        }} 
-        {...props}
+        },props.style]} 
         />
     )
 }

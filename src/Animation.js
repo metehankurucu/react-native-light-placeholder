@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     },
     line:{
         opacity:.2,
-        width:20,
+        width:15,
         backgroundColor:'#fff',
     }
 });
